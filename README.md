@@ -1,4 +1,4 @@
-# Functional Testing + Quiz
+# Functional Testing Training & Quiz
 
 This project is an interactive educational web page created with the help of Gemini Canvas. It presents the main concepts of functional testing in a structured and easy-to-understand format, followed by an interactive quiz for knowledge verification.
 
